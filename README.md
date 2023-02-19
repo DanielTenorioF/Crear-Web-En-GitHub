@@ -15,8 +15,8 @@
 
 ![image](w1.PNG)
 
-""
 [Enlace](https://danieltenoriof.github.io/Aplicacion-Web/)
+
 ## Autor
 - Daniel Tenorio Ferrera
 
