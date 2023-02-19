@@ -6,8 +6,10 @@
 - Crear un repositorio si no se ha creado con antelación
 - Para subir el repositorio, habrá que darle a la opcion "Publish Repository" y esperar a que se suba a GitHub.
 - Para confirmar si se ha subido poner en el siguiente enlace: github.com/"usuarioGitHub"/"nombreCarpetaSubida".
+
 ![image](w2.PNG) 
 ![image](w3.PNG)
+
 - En GitHub, ir a "Settings" --> "Pages" y cambiar "None" por "main". Esperar a que se cree la pagina web.
 - Para finalizar simplemente se deberá hacer click en el enlace generado y te llevará a la pagina web creada.
 
@@ -15,3 +17,8 @@
 
 ""
 [Enlace](https://danieltenoriof.github.io/Aplicacion-Web/)
+## Autor
+- Daniel Tenorio Ferrera
+
+## Licencia
+![image](licencia.PNG)
