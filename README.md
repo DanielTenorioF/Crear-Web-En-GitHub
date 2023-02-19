@@ -9,7 +9,7 @@
 - En GitHub, ir a "Settings" --> "Pages" y cambiar "None" por "main". Esperar a que se cree la pagina web.
 - Para finalizar simplemente se deberá hacer click en el enlace generado y te llevará a la pagina web creada.
 
-[image]
+![image](w1.PNG)
 
 "
 [Enlace](https://danieltenoriof.github.io/Aplicacion-Web/)
